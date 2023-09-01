@@ -4,3 +4,11 @@ menggunakan perintah :
 git add 			-> untuk menambahkan data atau file
 git commit -m 			-> untuk menambahkan tanda atau 
 git push -u origin master 	-> untuk memastikan file masuk kedalam reposit
+git add . 			-> untuk 1 file
+git add file_pecobaan1.txt
+git commit -m "ini adalah file percobaan 1 lokal"
+git push -u origin master
+
+git init -> 
+git config --global user.email "hai@gmail.com"
+git config --global user.name "hai"
